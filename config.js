@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: process.env.DISCORD_TOKEN || 'xxx',
+        token: process.env.DISCORD_TOKEN || 'MTMxOTI3ODAyNDA0MTk1OTQ0NQ.GyhSq2.2hULDWyL1mpYxf3rPizl4nlOl9g0eeJOAlwC0g',
         playing: 'by the Community ❤️',
         global: true,
-        guild: process.env.GUILD_ID || 'xxx',
+        guild: process.env.GUILD_ID || '1238981577560817758',
         extraMessages: false,
         loopMessage: false,
         lang: 'en',
